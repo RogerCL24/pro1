@@ -1,2 +1,2 @@
 # pro1
-Basic algorithms &amp; data type/structure
+Basic algorithms &amp; data type/structure with c++
